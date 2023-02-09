@@ -106,4 +106,4 @@ for num in cards:
 
 
 # save the document
-document.save('/Users/marieshimizu/Desktop/Project/'+ 'newList.docx')
+document.save('/Users/PATH'+ 'classroomTutorial.docx')
